@@ -4,3 +4,4 @@
 ## Description
 
 Création de ma propre librairie de fonctions, réutilisée dans mes projets suivant.
+Ce projet consiste à recrée la plupart des fonctions basiques de la librairie C.
